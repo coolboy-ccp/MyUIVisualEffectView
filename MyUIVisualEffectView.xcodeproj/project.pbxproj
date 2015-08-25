@@ -15,6 +15,7 @@
 		00639CCE1B8C49730027DC28 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00639CCD1B8C49730027DC28 /* Images.xcassets */; };
 		00639CD11B8C49730027DC28 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 00639CCF1B8C49730027DC28 /* LaunchScreen.xib */; };
 		00639CDD1B8C49730027DC28 /* MyUIVisualEffectViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00639CDC1B8C49730027DC28 /* MyUIVisualEffectViewTests.m */; };
+		00639CE71B8C49900027DC28 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00639CE61B8C49900027DC28 /* 1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		00639CD61B8C49730027DC28 /* MyUIVisualEffectViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyUIVisualEffectViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00639CDB1B8C49730027DC28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00639CDC1B8C49730027DC28 /* MyUIVisualEffectViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyUIVisualEffectViewTests.m; sourceTree = "<group>"; };
+		00639CE61B8C49900027DC28 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				00639CCD1B8C49730027DC28 /* Images.xcassets */,
 				00639CCF1B8C49730027DC28 /* LaunchScreen.xib */,
 				00639CC41B8C49730027DC28 /* MyUIVisualEffectView.xcdatamodeld */,
+				00639CE61B8C49900027DC28 /* 1.jpg */,
 				00639CBD1B8C49730027DC28 /* Supporting Files */,
 			);
 			path = MyUIVisualEffectView;
@@ -203,6 +206,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00639CCC1B8C49730027DC28 /* Main.storyboard in Resources */,
+				00639CE71B8C49900027DC28 /* 1.jpg in Resources */,
 				00639CD11B8C49730027DC28 /* LaunchScreen.xib in Resources */,
 				00639CCE1B8C49730027DC28 /* Images.xcassets in Resources */,
 			);
